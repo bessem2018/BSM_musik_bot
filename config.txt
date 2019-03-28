@@ -1,0 +1,6 @@
+owner=558205250876604418
+prefix=/
+game=Bessem BSM
+stayinchannel=true
+songinstatus=false
+token=NTYwNTYzOTUyNDU1NTE2MTY4.D37Q_Q.8Ut9H6odYuuXdNoyAk45QSVx-pw
